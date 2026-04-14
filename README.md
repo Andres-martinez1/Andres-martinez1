@@ -1,4 +1,4 @@
-<h1> ¡Hola! 😎 Espero que tu código corra sin problemas y que los bugs se desvanezcan como el aroma de un buen café. ¡Sigue así, que el éxito está a un paso de tu próximo commit! 🚀💻✨</h1>
+<h1> Bienvenido a mi repositorio. Aquí encontrarás proyectos desarrollados con enfoque en calidad, buenas prácticas y soluciones escalables. Cada implementación refleja un proceso de aprendizaje continuo, acompañado de pruebas, optimización y control de versiones. Este espacio representa mi compromiso con el desarrollo profesional y la construcción de software eficiente y mantenible.</h1>
 <p>"Si lo puedes imaginar, lo puedes programar. ​🤖​​🪐​"</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img 
